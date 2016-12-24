@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>departs</key>
+		<array>
+			<dict>
+				<key>majors</key>
+				<array>
+					<string>财务分析</string>
+					<string>金融营销</string>
+				</array>
+				<key>depart</key>
+				<string>金融系</string>
+			</dict>
+			<dict>
+				<key>majors</key>
+				<array>
+					<string>计算机科学与技术</string>
+					<string>信息管理与金融</string>
+					<string>电子商务</string>
+				</array>
+				<key>depart</key>
+				<string>互联网金融与信息工程系</string>
+			</dict>
+		</array>
+		<key>school</key>
+		<string>广东金融学院</string>
+	</dict>
+	<dict>
+		<key>departs</key>
+		<array>
+			<dict>
+				<key>majors</key>
+				<array>
+					<string>电动机床</string>
+					<string>电箱</string>
+				</array>
+				<key>depart</key>
+				<string>机电系</string>
+			</dict>
+			<dict>
+				<key>majors</key>
+				<array>
+					<string>工程管理</string>
+					<string>工程投资</string>
+				</array>
+				<key>depart</key>
+				<string>工程系</string>
+			</dict>
+		</array>
+		<key>school</key>
+		<string>广东工业大学</string>
+	</dict>
+</array>
+</plist>
